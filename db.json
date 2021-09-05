@@ -1,0 +1,199 @@
+[
+{
+    "id": 1,
+    "title": "Honda Civic",
+    "price": 7500,
+    "home": true,
+    "slug": "honda-civic-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img": "honda-civic-main-front.png"
+      }
+    ]
+
+  },
+  {
+    "id": 2,
+    "title": "Honda BRV",
+    "home": true,
+    "price": 6000,
+    "slug": "honda-brv-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img": "Honda-brv-front-main.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 3,
+    "title": "Kia Sportage",
+    "home": true,
+    "price": 14000,
+    "slug": "kia-sportage-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img": "kia-sporatge-main-front.png"
+      }
+    ]
+
+  },
+  {
+    "id": 4,
+    "title": "Grand Cabin",
+    "home": true,
+    "price": 8000,
+    "slug": "grand-cabin-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img": "grand-cabin-front-main.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 5,
+    "title": "Toyota Yaris",
+    "home": true,
+    "price": 4500,
+    "slug": "toyota-yaris-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img":"toyota-yaris-front-main.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 6,
+    "title": "Corolla GLI",
+    "price": 4500,
+    "home": true,
+    "slug":"corolla-gli-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img":"toyota-corolla-GLI-front-main.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 7,
+    "title": "Toyota Hiace",
+    "home": true,
+    "price": 8000,
+    "slug":"toyota-hiace-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img":"toyota-hiace-front-main.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 8,
+    "title":"Toyota Prado",
+    "home": false,
+    "price": 16000,
+    "slug": "toyota-prado-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img":"toyota-prado-front-main.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 9,
+    "title":"Land Cruiser - V8",
+    "home": true,
+    "price": 21000,
+    "slug":"land-cruiser-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img":"toyota-land-cruiser-front-main.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 10,
+    "title":"Toyota Coaster",
+    "home": false,
+    "price": 14000,
+    "slug": "toyota-coaster-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img":"toyota-coaster-front-main.png"
+      }
+    ]
+
+  },
+  {
+    "id": 11,
+    "title": "Suzuki Cultus",
+    "home": false,
+    "price": 3500,
+    "slug":"suzuki-cultus-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img":"suzuki-cultus-front-main.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 12,
+    "title":"Suzuki Every",
+    "home": false,
+    "price": 3000,
+    "slug":"suzuki-every-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img":"suzuki-every-front-main.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 13,
+    "title":"Changan Karvaan",
+    "home": false,
+    "price": 3000,
+    "slug": "changan-karvaan-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img":"changan-karvaan-front-main.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 14,
+    "title":"Audi A6 2016",
+    "home": true,
+    "price": 55000,
+    "slug": "Audi-a6-for-rent-in-islamabad",
+    "images": [
+      {
+        "id": 1,
+        "img":"audi-a6-front-main.jpg"
+      }
+    ]
+
+  }
+  
+  ]
